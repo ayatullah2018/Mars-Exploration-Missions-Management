@@ -1,0 +1,13 @@
+Completion day               ID                 Formulation Day       Waiting DayS          Excution DayS 
+21                           1                      1                      4                      16
+21                           2                      1                      5                      15
+22                           3                      1                      6                      15
+38                           4                      1                      23                      14
+40                           6                      1                      25                      14
+59                           5                      1                      44                      14
+...............................................................
+................................................................
+Missions: 6[M:2,P:1,E:3]
+Rovers: 3[M:1,P:1,E:1]
+Avg waiting days=17.8333,Avg excution days=14.6667
+ auto promotion mountanous missions percentage=50%
